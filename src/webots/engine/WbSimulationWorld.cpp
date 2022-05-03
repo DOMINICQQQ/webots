@@ -101,7 +101,7 @@ WbSimulationWorld::WbSimulationWorld(WbProtoList *protos, WbTokenizer *tokenizer
     }
   }
 
-  emit worldLoadingStatusHasChanged(tr("Finalizing nodes"));
+  emit worldLoadingStatusHasChanged(tr("Finalizing node"));
 
   setIsLoading(true);
   root()->finalize();
