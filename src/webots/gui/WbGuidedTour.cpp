@@ -83,7 +83,7 @@ WbGuidedTour::WbGuidedTour(QWidget *parent) :
   headerLayout->addStretch();
 
   mInfoText =
-    new QPlainTextEdit(tr("Welcome to the Webots Guided Tour.") + "\n" +
+    new QPlainTextEdit(tr("Welcome to the NJUST Guided Tour.") + "\n" +
                          tr("The tour will take you through many examples and will give you an overview of Webots features.") +
                          "\n\n" + tr("Check [Auto] or press [Next] to start...") + "\n",
                        this);
