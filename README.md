@@ -25,6 +25,3 @@ If you prefer to compile Webots from source, read our [Webots Development pages]
 Webots was originally designed at [EPFL](https://epfl.ch) in 1996 and then further developed and commercialized by [Cyberbotics](https://cyberbotics.com) since 1998. In December 2018, Webots was open sourced. Since then, [Cyberbotics](https://cyberbotics.com) continues to develop Webots thanks to paid customer support, training, consulting for industry and academic research projects.
 
 [Contact us](mailto:info@cyberbotics.com) to discuss your custom robot simulation projects.
-
-”这是暂存已修改文件示例”Add new Line content 1002 
-this is another line 1003 
